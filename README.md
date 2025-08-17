@@ -21,3 +21,8 @@ Este é um gerador de paleta de cores interativo, construído como um projeto de
 ## Como Usar
 
 Para usar este gerador, basta abrir o arquivo `index.html` em qualquer navegador.
+
+## Links Úteis
+
+- **Projeto Online:** [Gerador de Cores](https://tatiane347.github.io/gerador-de-cores/)
+- **Meu LinkedIn:** [Tatiane Nascimento](https://www.linkedin.com/in/tatiane-nascimento-68b0622bb/)
